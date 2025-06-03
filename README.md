@@ -39,7 +39,6 @@ The C++ code can be found in the `cpp/` directory (or directly in the root if yo
     ./restaurant_app
     ```
 
-**Expected Output:**
 
 ### Java Code
 
@@ -63,8 +62,6 @@ The Java code can be found in the `java/` directory (or directly in the root if 
     ```bash
     java RestaurantApp
     ```
-
-**Expected Output:**
 ## 💡 Key Concepts Demonstrated
 
 * **Abstraction:** Hiding complex implementation details and showing only essential features.
